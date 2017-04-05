@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace XamifyMe
 {
-	[Activity(Label = "XamifyMe", MainLauncher = true, Icon = "@mipmap/icon")]
+	[Activity(Label = "Phone Word", MainLauncher = true)]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate(Bundle bundle)
